@@ -10,8 +10,6 @@
 
 <p align="center">
 از مقدماتی تا پیشرفته: تست کنید که چقدر جاوا اسکریپت را می دانید، دانش خود را کمی تازه کنید یا برای مصاحبه برنامه نویسی خود آماده شوید! :muscle: :rocket: من این مخزن را به طور مرتب با سوالات جدید به روز می کنم. من پاسخ ها را در بخش **قطعات جمع شده** در زیر سؤالات اضافه کردم، فقط روی آنها کلیک کنید تا آن را گسترش دهید. این فقط برای سرگرمی است، موفق باشید! :heart:</p>
-<p align="center">
-From basic to advanced: test how well you know JavaScript, refresh your knowledge a bit, or prepare for your coding interview! :muscle: :rocket: I update this repo regularly with new questions. I added the answers in the **collapsed sections** below the questions, simply click on them to expand it. It's just for fun, good luck! :heart:</p>
 
 <p align="center">با خیال راحت با من تماس بگیرید!😊</p>
 
@@ -19,7 +17,7 @@ From basic to advanced: test how well you know JavaScript, refresh your knowledg
   <a href="https://www.instagram.com/theavocoder">Instagram</a> || <a href="https://www.twitter.com/lydiahallie">Twitter</a> || <a href="https://www.linkedin.com/in/lydia-hallie">LinkedIn</a> || <a href="https://www.lydiahallie.io/">Blog</a>
 </p>
 
-| Feel free to use them in a project! 😃 I would _really_ appreciate a reference to this repo, I create the questions and explanations (yes I'm sad lol) and the community helps me so much to maintain and improve it! 💪🏼 Thank you and have fun! |
+| با خیال راحت از آنها در یک پروژه استفاده کنید! 😃 من واقعاً از  اینکه به این مخزن به عنوان یک رفرنس یا مرجع برای سوالات آمده اید قدردانی می کنم، من سؤالات و توضیحات را ایجاد می کنم (بله غمگین هستم😅) و جامعه برای حفظ و بهبود آن بسیار به من کمک می کند! 💪🏼 ممنون و لذت ببرید! |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 <details><summary><strong> See 20 Available Translations 🇸🇦🇪🇬🇧🇦🇩🇪🇪🇸🇫🇷🇮🇩🇯🇵🇰🇷🇳🇱🇧🇷🇷🇺🇹🇭🇹🇷🇺🇦🇻🇳🇨🇳🇹🇼🇽🇰</strong></summary>
