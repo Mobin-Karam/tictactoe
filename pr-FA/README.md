@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-از مقدماتی تا پیشرفته: تست کنید که چقدر جاوا اسکریپت را می دانید، دانش خود را کمی تازه کنید یا برای مصاحبه برنامه نویسی خود آماده شوید! :muscle: : rocket: من این مخزن را به طور مرتب با سوالات جدید به روز می کنم. من پاسخ ها را در بخش **قطعات جمع شده** در زیر سؤالات اضافه کردم، فقط روی آنها کلیک کنید تا آن را گسترش دهید. این فقط برای سرگرمی است، موفق باشید! :heart:</p>
+از مقدماتی تا پیشرفته: تست کنید که چقدر جاوا اسکریپت را می دانید، دانش خود را کمی تازه کنید یا برای مصاحبه برنامه نویسی خود آماده شوید! :muscle: :rocket: من این مخزن را به طور مرتب با سوالات جدید به روز می کنم. من پاسخ ها را در بخش **قطعات جمع شده** در زیر سؤالات اضافه کردم، فقط روی آنها کلیک کنید تا آن را گسترش دهید. این فقط برای سرگرمی است، موفق باشید! :heart:</p>
 <p align="center">
 From basic to advanced: test how well you know JavaScript, refresh your knowledge a bit, or prepare for your coding interview! :muscle: :rocket: I update this repo regularly with new questions. I added the answers in the **collapsed sections** below the questions, simply click on them to expand it. It's just for fun, good luck! :heart:</p>
 
